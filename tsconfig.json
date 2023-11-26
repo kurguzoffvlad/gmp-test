@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "gmp-test": [
+        "dist/gmp-test"
+      ],
+      "gmp-test/*": [
+        "dist/gmp-test/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
