@@ -1,0 +1,8 @@
+1. В for_npm добавить js файл из dist
+2. В for_npm добавить package.json из #package_for_dist
+3. В for_npm\package.json - вместо index.js в - "main": "index.js" -  поставить наименование js файла из dist"
+4. В for_npm\package.json - обновить версию
+5. Синхронизировать package.jsonЫ в:
+5.1. #package_for_dist\package.json
+5.2. for_npm\package.json
+5.3. package.json

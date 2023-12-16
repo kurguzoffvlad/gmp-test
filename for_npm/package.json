@@ -1,15 +1,12 @@
 {
   "name": "gmp-test",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html"
-  },
+  "main": "gmp-test.995e4951.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "sideEffects": false,
   "dependencies": {
     "typescript": "^3.9.6"
   }
